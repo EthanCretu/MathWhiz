@@ -1,0 +1,6 @@
+{
+  "name": "MathWhiz",
+  "description": "K-12 Interactive Mathematics, Lessons, and Practice Portal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

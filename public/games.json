@@ -1,0 +1,260 @@
+[
+  {
+    "id": "eaglercraft",
+    "title": "Eaglercraft 1.8 (Minecraft Web)",
+    "disguiseTitle": "3D Spatial Coordinate & Voxel Geometry Simulator",
+    "category": "3D Geometry",
+    "tags": ["Featured", "3D", "Sandbox", "Multiplayer", "Popular"],
+    "description": "A full 3D voxel sandbox physics and spatial geometry environment running directly in HTML5. Explore block coordinate systems, terrain generation algorithms, and structural architecture.",
+    "thumbnail": "https://images.unsplash.com/photo-1627856013091-fed6e4e30025?auto=format&fit=crop&w=800&q=80",
+    "iframeUrl": "https://eaglercraft.com/mc/1.8.8/",
+    "fallbackUrls": [
+      "https://g.eaglercraft.com",
+      "https://precisionclient.vercel.app/",
+      "https://eaglercraft.ru/"
+    ],
+    "controls": [
+      "WASD: Move Character",
+      "Mouse: Rotate Camera / Look",
+      "Left Click: Break Block / Attack",
+      "Right Click: Place Block / Use Item",
+      "Space: Jump / Swim",
+      "Shift: Sneak / Crouch",
+      "E: Open Inventory",
+      "Esc: Pause Game / Release Mouse"
+    ],
+    "rating": 4.9,
+    "plays": "248.5K",
+    "isFeatured": true
+  },
+  {
+    "id": "retro-bowl",
+    "title": "Retro Bowl",
+    "disguiseTitle": "Applied Kinematics & Parabolic Trajectory Lab",
+    "category": "Physics & Dynamics",
+    "tags": ["Sports", "Strategy", "Popular", "Retro"],
+    "description": "Analyze parabolic motion vectors, velocity calculation, and strategic play optimization in a pixel grid simulation.",
+    "thumbnail": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&w=800&q=80",
+    "iframeUrl": "https://game316009.secondlifeapp.com/",
+    "fallbackUrls": [
+      "https://retro-bowl.github.io/",
+      "https://game261253.secondlifeapp.com/"
+    ],
+    "controls": [
+      "Arrow Keys / WASD: Move Player",
+      "Mouse Drag & Release: Calculate Launch Angle & Pass",
+      "Space / Click: Dive / Tackle",
+      "Esc: Pause Match"
+    ],
+    "rating": 4.8,
+    "plays": "189.2K",
+    "isFeatured": true
+  },
+  {
+    "id": "slope",
+    "title": "Slope 3D",
+    "disguiseTitle": "3D Vector Velocity & Inclined Plane Dynamics",
+    "category": "Physics & Dynamics",
+    "tags": ["3D", "Speed", "Popular", "Arcade"],
+    "description": "Navigate a high-velocity sphere down an infinite inclined 3D plane while calculating real-time momentum and centripetal forces.",
+    "thumbnail": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
+    "iframeUrl": "https://kripesh.github.io/slope-game/",
+    "fallbackUrls": [
+      "https://slopegame.github.io/",
+      "https://slope-3d.github.io/"
+    ],
+    "controls": [
+      "A / D or Left / Right Arrow: Steer Sphere",
+      "P: Pause",
+      "R: Restart Run"
+    ],
+    "rating": 4.7,
+    "plays": "310.8K",
+    "isFeatured": true
+  },
+  {
+    "id": "2048",
+    "title": "2048 Tile Puzzle",
+    "disguiseTitle": "Binary Exponential Series & Grid Optimization",
+    "category": "Logic & Algebra",
+    "tags": ["Math", "Puzzle", "Logic", "Casual"],
+    "description": "Combine powers of 2 ($2^n$) on a 4x4 matrix grid to solve for the target sum of 2048 using binary addition logic.",
+    "thumbnail": "https://images.unsplash.com/photo-1611996575749-79a3a250f948?auto=format&fit=crop&w=800&q=80",
+    "iframeUrl": "https://play2048.co/",
+    "fallbackUrls": [
+      "https://2048game.com/",
+      "https://gabrielecirulli.github.io/2048/"
+    ],
+    "controls": [
+      "Arrow Keys / WASD: Shift Grid Tiles",
+      "R: Reset Grid"
+    ],
+    "rating": 4.9,
+    "plays": "152.0K",
+    "isFeatured": false
+  },
+  {
+    "id": "geometry-dash",
+    "title": "Geometry Dash Lite",
+    "disguiseTitle": "Spatial Rhythm & Polygon Collision Detection",
+    "category": "3D Geometry",
+    "tags": ["Rhythm", "Platformer", "Geometry", "Popular"],
+    "description": "Test precision timing, jump height parabola, and visual geometry obstacle avoidance in sync with dynamic rhythm frequencies.",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80",
+    "iframeUrl": "https://scratch.mit.edu/projects/105500895/embed",
+    "fallbackUrls": [
+      "https://geometrydashlite.io/",
+      "https://scratch.mit.edu/projects/140883838/embed"
+    ],
+    "controls": [
+      "Space / Up Arrow / Click: Jump",
+      "P: Pause"
+    ],
+    "rating": 4.8,
+    "plays": "275.4K",
+    "isFeatured": true
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "disguiseTitle": "Compound Growth & Exponential Series Laboratory",
+    "category": "Logic & Algebra",
+    "tags": ["Idle", "Simulation", "Algebra"],
+    "description": "Model geometric series growth ($A = P(1+r)^t$) and incremental automation mathematics through compounding yield curves.",
+    "thumbnail": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?auto=format&fit=crop&w=800&q=80",
+    "iframeUrl": "https://orteil.dashnet.org/cookieclicker/",
+    "fallbackUrls": [
+      "https://cookie-clicker.co/"
+    ],
+    "controls": [
+      "Left Click: Produce Units / Purchase Upgrades"
+    ],
+    "rating": 4.6,
+    "plays": "198.7K",
+    "isFeatured": false
+  },
+  {
+    "id": "subway-surfers",
+    "title": "Subway Surfers Web",
+    "disguiseTitle": "Linear Obstacle Displacement & Velocity Curves",
+    "category": "Physics & Dynamics",
+    "tags": ["Runner", "3D", "Action"],
+    "description": "Calculate instant reactive maneuvers and jump trajectories in a 3-lane horizontal track system.",
+    "thumbnail": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=800&q=80",
+    "iframeUrl": "https://subwaysurfersgame.github.io/",
+    "fallbackUrls": [
+      "https://subwaysurfersweb.com/"
+    ],
+    "controls": [
+      "Left / Right Arrow: Change Lane",
+      "Up Arrow: Jump / Vault",
+      "Down Arrow: Slide / Roll",
+      "Space: Hoverboard"
+    ],
+    "rating": 4.7,
+    "plays": "220.1K",
+    "isFeatured": false
+  },
+  {
+    "id": "moto-x3m",
+    "title": "Moto X3M Bike Race",
+    "disguiseTitle": "Angular Momentum & Gravitational Torque Mechanics",
+    "category": "Physics & Dynamics",
+    "tags": ["Physics", "Racing", "Stunts"],
+    "description": "Master rotational dynamics, flip torque angle calculations, and spring acceleration across hazardous terrain slopes.",
+    "thumbnail": "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=800&q=80",
+    "iframeUrl": "https://motox3m.co/",
+    "fallbackUrls": [
+      "https://moto-x3m.github.io/"
+    ],
+    "controls": [
+      "Up Arrow / W: Accelerate",
+      "Down Arrow / S: Brake / Reverse",
+      "Left / Right Arrow: Lean Bike / Adjust Rotation Angle"
+    ],
+    "rating": 4.8,
+    "plays": "165.3K",
+    "isFeatured": false
+  },
+  {
+    "id": "tunnel-rush",
+    "title": "Tunnel Rush 3D",
+    "disguiseTitle": "Cylindrical Coordinate Rotation & Obstacle Matrix",
+    "category": "3D Geometry",
+    "tags": ["3D", "Speed", "Reaction"],
+    "description": "High-speed traversal inside a 360-degree cylindrical matrix geometry requiring split-second spatial rotation analysis.",
+    "thumbnail": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=800&q=80",
+    "iframeUrl": "https://tunnelrush.github.io/",
+    "fallbackUrls": [
+      "https://tunnel-rush.co/"
+    ],
+    "controls": [
+      "A / D or Left / Right Arrow: Rotate Cylinder",
+      "Space: Pause"
+    ],
+    "rating": 4.6,
+    "plays": "141.0K",
+    "isFeatured": false
+  },
+  {
+    "id": "chess",
+    "title": "Master Chess",
+    "disguiseTitle": "Combinatorial Game Theory & Decision Tree Analysis",
+    "category": "Logic & Algebra",
+    "tags": ["Strategy", "Board", "Logic", "Classic"],
+    "description": "Evaluate minimax decision trees, positional graph evaluation, and tactical tree search algorithms in classical chess.",
+    "thumbnail": "https://images.unsplash.com/photo-1529699211952-734e80c4d42b?auto=format&fit=crop&w=800&q=80",
+    "iframeUrl": "https://lichess.org/tv/frame?theme=brown&bg=light",
+    "fallbackUrls": [
+      "https://chess.org/frame"
+    ],
+    "controls": [
+      "Mouse Click & Drag: Move Pieces"
+    ],
+    "rating": 4.9,
+    "plays": "115.6K",
+    "isFeatured": false
+  },
+  {
+    "id": "basketball-stars",
+    "title": "Basketball Stars",
+    "disguiseTitle": "Parabolic Arch Trajectory & Rebound Impulse",
+    "category": "Physics & Dynamics",
+    "tags": ["Sports", "2-Player", "Action"],
+    "description": "Physics-based 2D basketball simulator computing projectile angles, drag force, and collision coefficient of restitution.",
+    "thumbnail": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=800&q=80",
+    "iframeUrl": "https://game316009.secondlifeapp.com/basketball-stars/",
+    "fallbackUrls": [
+      "https://basketball-stars.github.io/"
+    ],
+    "controls": [
+      "WASD / Arrow Keys: Movement & Jump",
+      "X / L: Shoot / Steal",
+      "Z / K: Super Shot"
+    ],
+    "rating": 4.7,
+    "plays": "180.4K",
+    "isFeatured": false
+  },
+  {
+    "id": "drift-hunters",
+    "title": "Drift Hunters 3D",
+    "disguiseTitle": "Lateral Friction Dynamics & Vector Drift Angles",
+    "category": "Physics & Dynamics",
+    "tags": ["3D", "Cars", "Physics"],
+    "description": "Simulate tire friction coefficient $\\mu$, slip angle vectors, and rotational torque distribution in custom vehicle models.",
+    "thumbnail": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=800&q=80",
+    "iframeUrl": "https://drifthunters.co/",
+    "fallbackUrls": [
+      "https://drift-hunters.github.io/"
+    ],
+    "controls": [
+      "WASD / Arrow Keys: Throttle & Steering",
+      "Space: Handbrake (Initiate Drift)",
+      "C: Camera Angle"
+    ],
+    "rating": 4.8,
+    "plays": "158.9K",
+    "isFeatured": false
+  }
+]
